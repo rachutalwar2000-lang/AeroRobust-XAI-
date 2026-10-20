@@ -1,0 +1,8 @@
+UAV_Object_Detection_Project/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── frontend/   React + Vite + TypeScript dashboard
+├── backend/    FastAPI API and optional YOLO inference
+├── research/   Experiment plan and blank results template
+└── docs/       Deployment and architecture guides
